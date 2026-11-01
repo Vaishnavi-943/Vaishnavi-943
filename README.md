@@ -1,13 +1,24 @@
 # Hi there 👋
 
-Hello! My name is Vaishnavi.
+## About Me
+Hello! My name is Vaishnavi. I am a student interested in learning programming and software development.
 
-I am a student interested in learning programming and software development.
+This repository is created to showcase my skills, projects, learning progress and achievements.
 
-This repository is created to showcase my learning journey, skills, projects, and achievements.
+## My Skills
+- Learning C programming
+- Learning Python
+- Basic programming concepts
 
-🌱 I'm currently learning C, Python, and programming fundamentals.
+## My Interests
+- Interested in web development
+- Exploring new technologies
+- Software development
 
-💻 Interested in technology and web development.
+## My Goals
+- Improve my programming skills
+- Build real-world projects
+- Contribute to open-source projects
 
-🎯 My goal is to improve my programming skills and build real-world projects.
+## Learning Journey
+I believe in continuous learning and improving my technical knowledge.
