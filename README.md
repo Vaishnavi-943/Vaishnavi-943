@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Vaishnavi-943/Vaishnavi-943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Vaishnavi.
 
-Here are some ideas to get you started:
+I am a student interested in learning programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is created to showcase my learning journey, skills, projects, and achievements.
+
+🌱 I'm currently learning C, Python, and programming fundamentals.
+
+💻 Interested in technology and web development.
+
+🎯 My goal is to improve my programming skills and build real-world projects.
