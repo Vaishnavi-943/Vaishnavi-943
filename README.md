@@ -22,3 +22,4 @@ This repository is created to showcase my skills, projects, learning progress an
 
 ## Learning Journey
 I believe in continuous learning and improving my technical knowledge.
+I am currently learning Python and C programming.
