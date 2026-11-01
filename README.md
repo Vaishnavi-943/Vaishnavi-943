@@ -24,3 +24,4 @@ This repository is created to showcase my skills, projects, learning progress an
 I believe in continuous learning and improving my technical knowledge.
 I am currently learning Python and C programming.
 I am interested in web development and new technologies.
+My goal is to build real-world projects and contribute to open source.
