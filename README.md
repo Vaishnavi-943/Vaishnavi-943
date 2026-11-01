@@ -25,3 +25,11 @@ I believe in continuous learning and improving my technical knowledge.
 I am currently learning Python and C programming.
 I am interested in web development and new technologies.
 My goal is to build real-world projects and contribute to open source.
+
+## Projects
+
+### Student Portfolio
+I am building my GitHub portfolio to showcase my programming skills and learning progress.
+
+### Future Projects
+I plan to develop real-world applications using C, Python and web development technologies.
